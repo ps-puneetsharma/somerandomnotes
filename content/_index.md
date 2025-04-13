@@ -1,4 +1,7 @@
 ---
+title: Puneet Sharma
+subtitle: Genomics Data Scientist
+type: home
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
@@ -14,5 +17,4 @@ title: Some Random Notes
 type: home
 ---
 
-** index doesn't contain a body, just front matter above.
-See index.html in the layouts folder **
+
